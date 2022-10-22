@@ -21,7 +21,7 @@ int main(void) {
     profile[0].languages = "german and english";
     profile[0].programmingLanguages = "JavaScript, Python, C++ and C#";
     profile[0].interests = "video-editing, image-editing and music-editing";
-    profile[0].projects = "paths-of-blessing.net";
+    profile[0].projects = "pathsofblessing.org";
     profile[0].exProjects = "rpg-v.de";
 
     std::cout << "My name is " + profile[0].name;
