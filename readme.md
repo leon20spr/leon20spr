@@ -12,7 +12,7 @@ struct strings {
 };
 
 int main(void) {
-    std::vector<strings> profile(7);
+    std::vector<strings> profile(5);
 
     profile[0].name = "Leon Spreckels";
     profile[0].livingCountry = "Germany";
